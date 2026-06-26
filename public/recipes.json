@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Veggie Pasta Bowl",
+    "category": "Dinner",
+    "image": "https://images.unsplash.com/photo-1521389508051-d7ffb5dc8d95?auto=format&fit=crop&w=900&q=80",
+    "ingredients": ["Pasta", "Zucchini", "Cherry tomatoes", "Olive oil", "Basil"],
+    "instructions": "Boil pasta. Saute vegetables in olive oil, then combine with pasta and fresh basil.",
+    "authorEmail": "chef@example.com"
+  },
+  {
+    "id": "2",
+    "title": "Berry Yogurt Parfait",
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=80",
+    "ingredients": ["Greek yogurt", "Blueberries", "Granola", "Honey"],
+    "instructions": "Layer yogurt, berries, and granola in a glass, then drizzle with honey.",
+    "authorEmail": "breakfast@example.com"
+  },
+  {
+    "id": "3",
+    "title": "Chickpea Salad",
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=80",
+    "ingredients": ["Chickpeas", "Cucumber", "Red onion", "Parsley", "Lemon juice"],
+    "instructions": "Mix all ingredients in a bowl and chill for 15 minutes before serving.",
+    "authorEmail": "salads@example.com"
+  }
+]
